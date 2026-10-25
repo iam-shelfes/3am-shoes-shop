@@ -1,10 +1,10 @@
-# 🌙 Nighty Shoes Shop
+## Nighty Shoes Shop
 
 > A semi-functional, horror-themed shoe store website built for the **Hack Club 3AM YSWS** event.
 
 ---
 
-## 🚀 Quick Start & Setup
+## Setup
 
 1. Clone or download this repository.
 2. Ensure all project files (`index.html`, `style.css`, and `index.js`) remain in the same directory.
@@ -12,7 +12,7 @@
 
 ---
 
-## 📖 Background
+## Background
 
 Development on this project began six months ago as my introduction to HTML, CSS, and JavaScript. It was originally intended for the *Beast YSWS* program, though it was ultimately left unsubmitted. 
 
@@ -20,7 +20,7 @@ For the *3AM YSWS*, I overhauled the visual design with a horror aesthetic and b
 
 ---
 
-## 📂 Project Architecture
+## Project Architecture
 
 * **`index.html`**: Defines the semantic layout and structure of the application.
 * **`style.css`**: Controls all positioning, layout containers, visual hierarchy, and horror thematic styling.
